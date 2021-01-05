@@ -1,0 +1,46 @@
+* {
+  font-family: cursive;
+}
+
+body {
+  background-color: darksalmon;
+}
+
+nav {
+  display: inline-block;
+  background-color: goldenrod;
+}
+
+#main-heading {
+  display: inline-block;
+  font-size: 32px;
+  margin: 10px;
+}
+
+.nav-link {
+  color: blue;
+}
+
+.special-nav {
+  color: yellow;
+}
+
+a {
+  color: red;
+  font-size: 18px;
+}
+
+.red-box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.burger-image {
+  height: 100px;
+  float: right;
+}
